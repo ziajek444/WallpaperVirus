@@ -1,4 +1,4 @@
 # WallpaperVirus
 asdf asdf
 
-Program to change wallpaper
+Program to changing wallpaper
