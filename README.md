@@ -1,2 +1,0 @@
-# kobra
-asdf asdf
